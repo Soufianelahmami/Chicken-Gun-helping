@@ -47,9 +47,9 @@
 
   "guides": [
 	{
-	 "image": "xxxx",
-	 "title": "00",
-	 "text": "xxxx",
+	 "image": "https://iili.io/JdzISgp.webp",
+	 "title": "Chicken Gun helping",
+	 "text": "The game could be set in a world where chickens have developed advanced technology and weaponry. Players could control a chicken army, engaging in battles against other chicken factions.",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
@@ -57,9 +57,9 @@
 
 	},
 	{
-	 "image": "xxxx",
-	 "title": "11",
-	 "text": "xxxx",
+	 "image": "https://iili.io/Jdz5Rtt.webp",
+	 "title": "Chicken Gun helping",
+	 "text": "Chickens could use eggs as their primary ammunition. Each type of egg could have different effects, such as explosive eggs, freezing eggs, or eggs that release a swarm of robotic chicks",
 	 "text_two": "xxxx",
 
 	 "isLocked": true,
@@ -67,9 +67,9 @@
 	 
 	},
 	{
-	 "image": "xxxx",
-	 "title": "22",
-	 "text": "xxxx",
+	 "image": "https://iili.io/Jdz5T9p.webp",
+	 "title": "Chicken Gun helping",
+	 "text": "Create a storyline where chickens are the heroes of the world, fighting against an evil force threatening their existence. Players could customize their chicken hero, upgrading their abilities and weapons.",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
@@ -77,9 +77,9 @@
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "33",
-	 "text": "xxxx",
+	"image": "https://iili.io/Jdz5zSR.webp",
+	 "title": "Chicken Gun helping",
+	 "text": "The game could be a battle royale set on a massive farm where players are chickens armed with various weapons. The play area could gradually decrease as the game progresses, forcing intense encounters.",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
@@ -87,9 +87,9 @@
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "44",
-	 "text": "xxxx",
+	"image": "https://iili.io/Jdz5uAN.webp",
+	 "title": "Chicken Gun helping",
+	 "text": "Implement a cooperative multiplayer mode where players must work together to defend their chicken coop from waves of enemies. This could involve strategic planning and resource management.",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
@@ -97,9 +97,9 @@
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "55",
-	 "text": "xxxx",
+	"image": "https://iili.io/Jdz5ANI.webp",
+	 "title": "Chicken Gun helping",
+	 "text": "Include power-ups that transform chickens into super-powered versions with unique abilities. For example, a chicken could become a giant rooster that causes shockwaves or a speedy chicken that leaves a trail of feathers.",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
